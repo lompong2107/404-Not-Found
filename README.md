@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="404-not-found-gray.vercel.app/">
+    <a href="https://404-not-found-gray.vercel.app/">
       Demo
     </a>
     <span> | </span>
