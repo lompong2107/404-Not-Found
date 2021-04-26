@@ -1,0 +1,35 @@
+body,
+html,
+.container {
+    height: 100%;
+}
+
+.text-top {
+    font-size: 24px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.text-t {
+    color: #333333;
+    font-family: 'Space Mono';
+    font-weight: bold;
+}
+
+.text-c {
+    color: #4F4F4F;
+    font-weight: normal;
+    font-family: 'Space Mono';
+}
+
+.text-f {
+    color: #BDBDBD;
+    font-family: 'Montserrat', sans-serif;
+    width: 90%;
+}
+
+.btn-edit {
+    font-family: 'Space Mono';
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+}
