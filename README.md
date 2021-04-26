@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{404-not-found-gray.vercel.app/}">
+    <a href="https://{https://404-not-found-gray.vercel.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/solutions/ZqSfRxD85jwauPb24SfD}">
+    <a href="https://{https://devchallenges.io/solutions/ZqSfRxD85jwauPb24SfD}">
       Solution
     </a>
     <span> | </span>
